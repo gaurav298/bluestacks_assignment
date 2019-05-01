@@ -1,0 +1,30 @@
+.header {
+    justify-content: space-between;
+    background: #008cff;
+    color: #fff;
+    padding: 0 10px;
+    height: 40px;
+    align-items: center;
+}
+
+.hamburger {
+    width: 24px;
+    height: 40px;
+    margin-left: 10px;
+    justify-content: center;
+}
+
+.hamburger span {
+    width: 24px;
+    height: 2px;
+    background: #fff;
+    margin-bottom: 4px;
+}
+
+.betaSection {
+    align-items: center;
+}
+
+.hamburger span:last-child {
+    margin: 0;
+}

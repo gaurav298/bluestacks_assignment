@@ -1,0 +1,16 @@
+{
+    "headerTitle": "SpotLight",
+    "headerText": "BETA",
+    "title": "Manage <span className='bold'>Campaigns</span>",
+    "daysLeft": "days left",
+    "daysStart": "days since start",
+    "daysAgo": "days ago",
+    "view": "VIEW",
+    "pricing": "PRICING",
+    "csv": "CSV",
+    "report": "REPORT",
+    "schedule": "SCHEDULE AGAIN",
+    "date": "DATE",
+    "campaign": "CAMPAIGN",
+    "actions": "ACTIONS"
+}
