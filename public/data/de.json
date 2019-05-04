@@ -1,0 +1,16 @@
+{
+    "headerTitle": "Scheinwerfer",
+    "headerText": "BETA",
+    "title": "Verwalten <span className='bold'>Kampagnen</span>",
+    "daysLeft": "Tage übrig",
+    "daysStart": "Tage seit dem Start",
+    "daysAgo": "Vor Tagen",
+    "view": "AUSSICHT",
+    "pricing": "PREISGESTALTUNG",
+    "csv": "CSV",
+    "report": "BERICHT",
+    "schedule": "ZEITPLAN WIEDER",
+    "date": "DATUM",
+    "campaign": "KAMPAGNE",
+    "actions": "AKTIONEN"
+}

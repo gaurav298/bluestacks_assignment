@@ -1,0 +1,183 @@
+.campaignList {
+    list-style-type: none;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.rupeeSymbol {
+    padding: 5px;
+    background: darkBlue;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 100%;
+}
+
+.campaignList li {
+    border-bottom: 1px solid #9b9b9b;
+    border-left: 1px solid #9b9b9b;
+    cursor: pointer;
+}
+
+.campaignList li > span {
+    border-right: 1px solid #9b9b9b;
+    padding: 10px 10px;
+}
+
+.campaignList li:first-child {
+    background: lightgray;
+    align-items: center;
+}
+
+.campaignList li:first-child span {
+    padding: 20px 10px;
+    text-align: left;
+}
+
+.campaignList li > span:nth-child(1) {
+    width: 120px;
+}
+
+.campaignList li > span:nth-child(2) {
+    width: 400px;
+}
+
+.campaignList li > span:nth-child(3) {
+    width: 85px;
+}
+
+.campaignList li > span:nth-child(4) {
+    width: 400px;
+}
+
+.campaignIcon {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.modal {
+    background: #fff;
+    width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 10;
+}
+
+.backdrop {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1;
+}
+
+.modal .modalIcon {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.modal .country,
+.modal .title,
+.modal .date {
+    margin-bottom: 10px;
+    color: #000;
+    font-size: 20px;
+}
+
+.disabled span {
+    color: #9b9b9b;
+}
+
+.actions > span {
+    margin-right: 10px;
+}
+
+.csvIcon,
+.reportIcon,
+.calendarIcon {
+    width: 20px;
+    height: 20px;
+    background-size: 100% 100%;
+}
+
+.csvIcon {
+    background-image: url(../../images/csv.png);
+}
+
+.reportIcon {
+    background-image: url(../../images/graph.png);
+}
+
+.calendarIcon {
+    background-image: url(../../images/calendar.png);
+}
+
+.calendar {
+    cursor: pointer;
+}
+
+.calendar label {
+    position: relative;
+}
+
+.DayPickerInput input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+.DayPickerInput-Overlay {
+    left: -150px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .campaignList {
+        width: 100%;
+    }
+
+    .campaignList li > span:nth-child(1) {
+        width: 19%;
+    }
+    
+    .campaignList li > span:nth-child(2) {
+        width: 28%;
+    }
+    
+    .campaignList li > span:nth-child(3) {
+        width: 18%;
+    }
+    
+    .campaignList li > span:nth-child(4) {
+        width: 35%;
+    }
+    .DayPickerInput-Overlay {
+        left: -200px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .campaignList li > span, .campaignList li:first-child span {
+        padding: 10px 0px 10px 5px;
+        font-size: 9px;
+    }
+    .csvIcon, .reportIcon, .calendarIcon {
+        width: 15px;
+        height: 15px;
+    }
+    .actions > span {
+        margin-right: 5px;
+        text-transform: lowercase;
+    }
+    .DayPickerInput-Overlay {
+        left: -250px;
+    }
+}
