@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bluestacks_assignment/static/css/main.1266ad10.chunk.css",
-    "main.js": "/bluestacks_assignment/static/js/main.840fb427.chunk.js",
-    "main.js.map": "/bluestacks_assignment/static/js/main.840fb427.chunk.js.map",
+    "main.js": "/bluestacks_assignment/static/js/main.21b4530a.chunk.js",
+    "main.js.map": "/bluestacks_assignment/static/js/main.21b4530a.chunk.js.map",
     "runtime~main.js": "/bluestacks_assignment/static/js/runtime~main.0179f068.js",
     "runtime~main.js.map": "/bluestacks_assignment/static/js/runtime~main.0179f068.js.map",
     "static/css/2.c6231af7.chunk.css": "/bluestacks_assignment/static/css/2.c6231af7.chunk.css",
     "static/js/2.950bf9dd.chunk.js": "/bluestacks_assignment/static/js/2.950bf9dd.chunk.js",
     "static/js/2.950bf9dd.chunk.js.map": "/bluestacks_assignment/static/js/2.950bf9dd.chunk.js.map",
     "index.html": "/bluestacks_assignment/index.html",
-    "precache-manifest.0bd8129c9eb56964139ac2ee1f954d55.js": "/bluestacks_assignment/precache-manifest.0bd8129c9eb56964139ac2ee1f954d55.js",
+    "precache-manifest.400f0f89384730885ba2de70a7931f02.js": "/bluestacks_assignment/precache-manifest.400f0f89384730885ba2de70a7931f02.js",
     "service-worker.js": "/bluestacks_assignment/service-worker.js",
     "static/css/2.c6231af7.chunk.css.map": "/bluestacks_assignment/static/css/2.c6231af7.chunk.css.map",
     "static/css/main.1266ad10.chunk.css.map": "/bluestacks_assignment/static/css/main.1266ad10.chunk.css.map"
