@@ -1,0 +1,14 @@
+[
+    {
+        "title": "upcoming campaigns",
+        "value": "upcoming"
+    },
+    {
+        "title": "live campaigns",
+        "value": "live"
+    },
+    {
+        "title": "past campaigns",
+        "value": "past"
+    }
+]
