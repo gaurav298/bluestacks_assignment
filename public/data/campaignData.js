@@ -36,32 +36,32 @@ export const campaigns = {
         {
             title: "Super Jewels Quest",
             date: "2019-04-17",
-            iconUrl: "iamges/jewelsQuest.jpg",
+            iconUrl: "images/jewelsQuest.jpg",
             country: "CA"
         },
         {
             title: "Mancala Mix",
             date: "2019-04-14",
-            iconUrl: "iamges/mancala.jpg",
+            iconUrl: "images/mancala.jpg",
             country: "CA"
         },
         {
             title: "Mole Slayer",
             date: "2019-04-14",
-            iconUrl: "iamges/slayer.jpg",
+            iconUrl: "images/slayer.jpg",
             country: "FR"
         },
         {
             title: "Test Whatsapp",
             date: "2019-05-01",
-            iconUrl: "iamges/whatsapp.jpg",
+            iconUrl: "images/whatsapp.jpg",
             country: "US"
         },
         
         {
             title: "PUBG",
             date: "2019-04-17",
-            iconUrl: "iamges/pubg.jpg",
+            iconUrl: "images/pubg.jpg",
             country: "CHINA"
         }
     ],
@@ -69,31 +69,31 @@ export const campaigns = {
         {
             title: "Test Whatsapp",
             date: "2020-05-01",
-            iconUrl: "iamges/whatsapp.jpg",
+            iconUrl: "images/whatsapp.jpg",
             country: "US"
         },
         {
             title: "PUBG",
             date: "2020-04-17",
-            iconUrl: "iamges/pubg.jpg",
+            iconUrl: "images/pubg.jpg",
             country: "CHINA"
         },
         {
             title: "Mole Slayer",
             date: "2020-04-14",
-            iconUrl: "iamges/slayer.jpg",
+            iconUrl: "images/slayer.jpg",
             country: "FR"
         },
         {
             title: "Mancala Mix",
             date: "2020-04-14",
-            iconUrl: "iamges/mancala.jpg",
+            iconUrl: "images/mancala.jpg",
             country: "CA"
         },
         {
             title: "Super Jewels Quest",
             date: "2020-04-17",
-            iconUrl: "iamges/jewelsQuest.jpg",
+            iconUrl: "images/jewelsQuest.jpg",
             country: "CA"
         }
     ]
